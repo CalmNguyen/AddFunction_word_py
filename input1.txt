@@ -1,0 +1,9 @@
+Sau khi khảo sát các chức năng thống kê của word, em nhận thấy microsoft đã hoàn thiện rất tốt phần mềm này.
+Đã có thống kê về số trang, số chữ, số ký tự ( không tính dấu cách), số ký tự (có tính dấu cách), số đoạn và số dòng.
+
+học sinh
+học sinh
+học sinh
+học sinh
+học sinh
+học sinh
